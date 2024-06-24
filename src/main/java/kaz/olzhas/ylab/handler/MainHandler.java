@@ -2,6 +2,7 @@ package kaz.olzhas.ylab.handler;
 
 public class MainHandler {
 
+    //Метод для отображения панели для всех
     public void displayMainPanel(){
         System.out.println("Добро пожаловать в наш Coworking Centre.");
         System.out.println("       Выберите действие:");

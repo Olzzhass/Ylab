@@ -2,6 +2,7 @@ package kaz.olzhas.ylab.handler;
 
 public class AdminHandler {
 
+    //Метод для отображения панели для админа
     public void displayAdminPanel(){
         System.out.println("     Добро пожаловать на странице админа!");
         System.out.println("1. Добавить рабочее место.");

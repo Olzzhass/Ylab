@@ -11,6 +11,7 @@ public class Workspace {
     private String name; //имя помещения
     private List<Booking> bookings; // и так как у каждого помещения будут брони например по часам я их вывел в отдельную сущность
 
+    //Конструктор для рабочего места
     public Workspace(int id, String name) {
         bookings = new ArrayList<>();
         this.id = id;

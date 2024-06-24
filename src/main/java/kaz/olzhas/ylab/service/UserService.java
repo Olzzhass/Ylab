@@ -13,6 +13,7 @@ public class UserService {
 
     private static Map<String, User> users;
 
+    //Конструктор для Сервиса пользователь класса
     public UserService(){
         users = new HashMap<>();
     }

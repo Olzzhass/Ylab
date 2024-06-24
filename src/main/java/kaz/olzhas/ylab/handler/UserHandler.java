@@ -2,6 +2,7 @@ package kaz.olzhas.ylab.handler;
 
 public class UserHandler {
 
+    //Метод для отображения панели для пользователя
     public void displayUserPanel(){
         System.out.println("       Выберите действие:");
         System.out.println("1. Посмотреть мои забронированные места. ");

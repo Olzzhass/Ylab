@@ -16,6 +16,7 @@ public class WorkspaceService {
     private UserService userService;
 
     private List<Workspace> workspaceList = new ArrayList<>();
+    //Конструктор для Сервиса рабочего места
 
     public WorkspaceService(UserService userService){
         this.userService = userService;
