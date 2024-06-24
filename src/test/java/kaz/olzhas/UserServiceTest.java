@@ -9,6 +9,7 @@ import java.util.Map;
 
 import static org.assertj.core.api.Assertions.assertThat;
 
+//Класс теста Сервиса Админа
 public class UserServiceTest {
 
     private UserService userService;

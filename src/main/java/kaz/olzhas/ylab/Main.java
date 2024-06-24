@@ -5,6 +5,7 @@ import kaz.olzhas.ylab.handler.MainHandler;
 import kaz.olzhas.ylab.handler.UserHandler;
 import kaz.olzhas.ylab.in.CoworkingServiceIn;
 
+//Main класс
 public class Main {
     public static void main(String[] args) {
 

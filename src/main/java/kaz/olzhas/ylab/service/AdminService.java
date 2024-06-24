@@ -13,6 +13,7 @@ public class AdminService {
     private WorkspaceService workspaceService;
     private UserService userService;
 
+    //Конструктор для Сервиса Админ класса
     public AdminService(WorkspaceService workspaceService, UserService userService) {
         this.workspaceService = workspaceService;
         this.userService = userService;

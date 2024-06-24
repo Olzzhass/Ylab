@@ -22,6 +22,7 @@ public class CoworkingServiceIn {
     WorkspaceService workspaceService;
     AdminService adminService;
 
+    //Конструктор для входного класса
     public CoworkingServiceIn(){
         userService = new UserService();
         workspaceService = new WorkspaceService(userService);

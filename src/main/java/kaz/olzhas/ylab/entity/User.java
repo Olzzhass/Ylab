@@ -11,6 +11,7 @@ public class User {
 
     private List<Workspace> workspaceList;
 
+    //Конструктор для пользователя
     public User(String username, String password) {
         workspaceList = new ArrayList<>();
         this.username = username;

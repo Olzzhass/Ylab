@@ -10,6 +10,7 @@ public class Booking {
     private LocalDateTime start; //start time
     private LocalDateTime end; //end time
 
+    //Конструктор для броней
     public Booking(LocalDateTime start, LocalDateTime end) {
         this.id = generateId();
         this.start = start;
