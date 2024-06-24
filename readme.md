@@ -31,5 +31,3 @@ Coworking-Service - это консольное приложение предн�
 
 - 📬 ola.zhenisbek@gmail.com
 - telegram: [@@zzhenisbekk](https://t.me/@zzhenisbekk)
-
-1. First HW - https://github.com/Olzzhass/ylab_HW/pull/1
